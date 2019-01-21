@@ -1,0 +1,7 @@
+E:\SSM分布式\taotao-order\src\main\java\com\taotao\order\dao\Impl\JedisClientSingle.java
+E:\SSM分布式\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+E:\SSM分布式\taotao-order\src\main\java\com\taotao\order\service\Impl\OrderServiceImpl.java
+E:\SSM分布式\taotao-order\src\main\java\com\taotao\order\dao\Impl\JedisClientCluster.java
+E:\SSM分布式\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+E:\SSM分布式\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
+E:\SSM分布式\taotao-order\src\main\java\com\taotao\order\pojo\Order.java

@@ -1,0 +1,13 @@
+INDEX VERSION 1.130
+E:\SSM分布式\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1497872763.index
+\taotao-sso\src\main\java
+E:\SSM分布式\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3859073778.index
+\taotao-manager-controller\src\main\java
+E:\SSM分布式\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2346493784.index
+\taotao-portal\src\main\java
+E:\SSM分布式\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3383018015.index
+\taotao-portal\src\main\java
+E:\SSM分布式\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\862258695.index
+\taotao-manager-controller\src\main\java
+E:\SSM分布式\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2913356879.index
+\taotao-portal\src\main\java

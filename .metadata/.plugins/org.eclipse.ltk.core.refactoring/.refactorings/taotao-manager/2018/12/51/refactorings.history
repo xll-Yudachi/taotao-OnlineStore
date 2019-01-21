@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;taotao-manager/taotao-service&apos; to &apos;taotao-manager-service&apos;" description="Rename resource &apos;taotao-service&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="taotao-service" name="taotao-manager-service" stamp="1545400994337" updateReferences="true"/>
+</session>

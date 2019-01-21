@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;taotao-rest/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manager-controller&apos;&#x0D;&#x0A;- Destination element: &apos;taotao-rest/src/main/resources&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     resource&#x0D;&#x0A;     spring&#x0D;&#x0A;     mybatis" description="Copy folders" destination="=taotao-rest/src\/main\/resources" element1="src/main/resources/resource" element2="src/main/resources/spring" element3="src/main/resources/mybatis" files="0" flags="589830" folders="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1545831835969" units="0" version="1.0"/>
+</session>
